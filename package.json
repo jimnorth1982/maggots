@@ -1,0 +1,30 @@
+{
+  "name": "maggots",
+  "version": "1.0.0",
+  "description": "Maggots 2d",
+  "main": "index.js",
+  "scripts": {
+    "test": "test()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimnorth1982/maggots.git"
+  },
+  "keywords": [
+    "2d",
+    "platformer",
+    "js",
+    "phaser",
+    "node.js",
+    "javascript",
+    "games",
+    "browser",
+    "mobile"
+  ],
+  "author": "Jim North",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jimnorth1982/maggots/issues"
+  },
+  "homepage": "https://github.com/jimnorth1982/maggots#readme"
+}
